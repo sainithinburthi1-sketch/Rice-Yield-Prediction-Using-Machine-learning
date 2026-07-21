@@ -1,0 +1,13 @@
+/* Global CSS reset — specific design system is in App.css */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #060a0f;
+  color: #f0f6ff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
