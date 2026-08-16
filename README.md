@@ -1,4 +1,4 @@
-# Rice Yield Forecasting System
+# Rice Yield Forecasting Using Machine Learning
 
 > Deep Learning + Remote Sensing for Precision Agriculture
 
